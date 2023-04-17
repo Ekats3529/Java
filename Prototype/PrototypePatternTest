@@ -30,3 +30,28 @@ public class PrototypePatternTest {
     }
 
 }
+
+
+/*
+---------------------------------------
+Pizza name: margarita
+tomato souse  15
+cheese  30
+Total: 45
+---------------------------------------
+
+---------------------------------------
+Pizza name: pepperoni
+pepperoni  60
+tomato souse  15
+cheese  30
+Total: 105
+---------------------------------------
+
+---------------------------------------
+Pizza name: cheesy
+blue cheese  70
+cheese  30
+Total: 100
+---------------------------------------
+*/
