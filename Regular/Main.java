@@ -10,7 +10,7 @@ public class Main {
 
     public static void main (String[] args) {
 
-        Pattern pattern1 = Pattern.compile("<img\\s+(.*)src\\s*=\\s*(.*)");
+        Pattern pattern1 = Pattern.compile("<i|I m|M g|G\\s+(.*)src\\s*=\\s*(.*)");
 
         File file = new File("src/input.txt");
 
