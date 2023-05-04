@@ -11,3 +11,5 @@ djdkjfk
 <img src="<адрес>" />
 
 <img sizes="(max-width: 30em) 100vw, (max-width: 50em) 50vw, calc(33vw - 100px)") src="hhhhh" />
+<IMG sizes="(max-width: 30em) 100vw, (max-width: 50em) 50vw, calc(33vw - 100px)") src="hhhhh" />
+<ImG sizes="(max-width: 30em) 100vw, src="hhhhh" />
