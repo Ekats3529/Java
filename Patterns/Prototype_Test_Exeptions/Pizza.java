@@ -1,3 +1,5 @@
+package org.example;
+
 
 
 import java.util.*;
@@ -37,6 +39,7 @@ public class Pizza implements Cloneable{
 
 
     public void MakeDefault(){
+        Ingridients.clear();
         Ingridients.put("tomato souse", 15);
         Ingridients.put("cheese", 30);
     }
@@ -48,6 +51,11 @@ public class Pizza implements Cloneable{
             res.append("\n");
         }
         return res;
+    }
+
+
+    public Map<String, Integer> getIngridientsMap() {
+        return Ingridients;
     }
 
     public Integer getPrice() {
