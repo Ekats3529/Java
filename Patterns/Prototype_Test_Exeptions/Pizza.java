@@ -24,13 +24,18 @@ public class Pizza implements Cloneable{
         this.name = name;
     }
 
-    public void addIng(String name, Integer price){
+    public void addIng(String name, Integer price) throws IllegalArgumentException{
+        if (price <= 0){
+            throw new IllegalArgumentException("Price of ingridient must be more than 0");
+        }
         Ingridients.put(name, price);
     }
 
     public void removeIng(String name){
         Ingridients.keySet().remove(name);
     }
+
+
     public void MakeDefault(){
         Ingridients.put("tomato souse", 15);
         Ingridients.put("cheese", 30);
@@ -53,10 +58,14 @@ public class Pizza implements Cloneable{
         return res;
     }
 
-    public StringBuilder getInfo(){
+    public StringBuilder getInfo() throws IllegalArgumentException{
+
         StringBuilder res = new StringBuilder();
         res.append("---------------------------------------\n");
         res.append("Pizza name: " + name + "\n");
+        if (Ingridients.size() == 0){
+            throw new IllegalArgumentException("Count of ingridients must be more than 0");
+        }
         for(Map.Entry<String, Integer> entry: Ingridients.entrySet()) {
             res.append(entry.getKey() + "  " + Integer.toString(entry.getValue()) + "\n");
         }
