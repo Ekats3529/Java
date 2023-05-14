@@ -1,0 +1,271 @@
+[ {
+  "sports" : [ "football", "basketball", "volleyball" ],
+  "additionalCover" : true,
+  "volume" : 25,
+  "waterProofComp" : false,
+  "manufacturer" : "Puma",
+  "insideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "замша",
+    "cost" : 1500
+  } ],
+  "outsideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  } ]
+}, {
+  "sports" : [ "football", "basketball", "volleyball" ],
+  "additionalCover" : false,
+  "volume" : 40,
+  "waterProofComp" : false,
+  "manufacturer" : "Nike",
+  "insideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "замша",
+    "cost" : 1500
+  } ],
+  "outsideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  } ]
+}, {
+  "sports" : [ "football", "basketball", "volleyball" ],
+  "additionalCover" : true,
+  "volume" : 60,
+  "waterProofComp" : true,
+  "manufacturer" : "Adidas",
+  "insideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "замша",
+    "cost" : 1500
+  } ],
+  "outsideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  } ]
+}, {
+  "sports" : [ "fitness", "jogging", "ice hockey" ],
+  "additionalCover" : false,
+  "volume" : 15,
+  "waterProofComp" : true,
+  "manufacturer" : "Puma",
+  "insideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "замша",
+    "cost" : 1500
+  } ],
+  "outsideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  } ]
+}, {
+  "sports" : [ "fitness", "jogging", "ice hockey" ],
+  "additionalCover" : true,
+  "volume" : 45,
+  "waterProofComp" : true,
+  "manufacturer" : "Nike",
+  "insideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ],
+  "outsideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ]
+}, {
+  "sports" : [ "fitness", "jogging", "ice hockey" ],
+  "additionalCover" : true,
+  "volume" : 25,
+  "waterProofComp" : true,
+  "manufacturer" : "Demix",
+  "insideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ],
+  "outsideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ]
+}, {
+  "sports" : [ ],
+  "additionalCover" : true,
+  "volume" : 150,
+  "waterProofComp" : true,
+  "manufacturer" : "CCM",
+  "insideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ],
+  "outsideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ]
+}, {
+  "sports" : [ ],
+  "additionalCover" : true,
+  "volume" : 200,
+  "waterProofComp" : true,
+  "manufacturer" : "CCM",
+  "insideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ],
+  "outsideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ]
+}, {
+  "sports" : [ "snowboarding", "skiing" ],
+  "additionalCover" : true,
+  "volume" : 100,
+  "waterProofComp" : true,
+  "manufacturer" : "Kyoto",
+  "insideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ],
+  "outsideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ]
+}, {
+  "sports" : [ "snowboarding", "skiing" ],
+  "additionalCover" : true,
+  "volume" : 200,
+  "waterProofComp" : true,
+  "manufacturer" : "Kyoto",
+  "insideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ],
+  "outsideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ]
+}, {
+  "sports" : [ "tennis", "badminton" ],
+  "additionalCover" : true,
+  "volume" : 30,
+  "waterProofComp" : false,
+  "manufacturer" : "Head Core",
+  "insideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "замша",
+    "cost" : 1500
+  } ],
+  "outsideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ]
+}, {
+  "sports" : [ "tennis", "badminton" ],
+  "additionalCover" : true,
+  "volume" : 15,
+  "waterProofComp" : true,
+  "manufacturer" : "Head Core",
+  "insideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "замша",
+    "cost" : 1500
+  } ],
+  "outsideFabric" : [ {
+    "name" : "полиэстер",
+    "cost" : 600
+  }, {
+    "name" : "нейлон",
+    "cost" : 1200
+  }, {
+    "name" : "плащевая ткань",
+    "cost" : 250
+  } ]
+} ]
