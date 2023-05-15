@@ -13,7 +13,7 @@ public class Main {
         cart.pay(new KiwiStrategy("myemail@example.com", "mypwd"));
 
         //pay by credit card
-        cart.pay(new CreditCardStrategy("Pankaj Kumar", "1234567890123456", "786", "12/15"));
+        cart.pay(new CreditCardStrategy("Peter Parker", "1234567890123456", "786", "12/15"));
     }
 
 }
