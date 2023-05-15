@@ -18,3 +18,9 @@ public class Main {
 
 }
 
+
+/*
+50 paid using Kiwi.
+50 paid with credit/debit card
+*/
+
